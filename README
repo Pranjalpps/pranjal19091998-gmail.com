@@ -3,11 +3,11 @@
 this is a sample repository
 EDITING DONE
 
-<<<<<<< HEAD
 THIS EDITING IS DONE ON THE MASTER BRANCH
-=======
+
 
 second editing done in the branch
->>>>>>> experiment
+
+editing after pushing on github
 
 
